@@ -1,0 +1,14 @@
+baseurl = "https://koesob0508.gihub.io"
+title = "Koesob Log"
+languageCode = "ko-KR"
+
+theme = "hugo-hello-programmer-theme"
+
+paginate = 2
+
+disqusShortname = "XXXX"
+googleAnalytics = "UA-XXXXXXXX-X"
+
+[author]
+    name = "Koesob"
+    email = "epi3706@khu.ac.kr"
